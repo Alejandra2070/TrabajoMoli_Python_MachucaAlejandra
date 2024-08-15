@@ -12,6 +12,10 @@ Se crearon dos menús diferentes para mayor entendimiento por parte del cliente.
 
 ![alt text](image.png)
 
+## Estructura
+
+![alt text](image-1.png)
+
 ## Características
 
 Se crearon archivos json, un archivo Readme y un archivo .py para la creación del código.
