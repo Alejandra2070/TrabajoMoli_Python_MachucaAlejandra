@@ -11,7 +11,7 @@ archivo=abrirArchivo()
 def guardarArchivo(miData):
     with open("menu.json","w") as outfile:
         json.dump(miData,outfile)
-##########################################################
+###########################################################
 def abrirArchivo2():
     miJson2=[]
     with open("pagos.json", encoding="utf-8") as openfile:
